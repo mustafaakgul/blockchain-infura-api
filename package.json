@@ -1,0 +1,19 @@
+{
+  "name": "newnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.3",
+    "tronweb": "^4.1.0",
+    "web3": "^1.7.0"
+  }
+}
