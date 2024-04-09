@@ -1,1 +1,1 @@
-## Example of blockchain infura integration concepts with hands-on exercises and examples
+## Example of blockchain infura integration concepts with hands-on exercises and examples
